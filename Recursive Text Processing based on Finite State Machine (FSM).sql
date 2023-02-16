@@ -26,7 +26,6 @@ INSERT INTO fsm VALUES
   (6, 'u',                                                              7, true ),
   (9, 'm',                                                             10, true );
 ---------------------------------------------------------------------
--- Molecule table
 
 DROP TABLE IF EXISTS emails;
 CREATE TABLE emails(
