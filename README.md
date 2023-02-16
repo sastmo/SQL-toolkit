@@ -7,8 +7,7 @@ In this repository, three Recursive Query has presented:
 # Fibonacci-by-RECURSIVE SQL:
 A recursive query can only be recalled once within itself, resulting in limitations in some cases.
 Consequently, we must use a non-linear recursive query to overcome this limitation. 
-In order to give an idea of how you can recall a query inside itself as much as you like, t
-he Fibonacci series has been written as an example of a non-linear recursive query.
+In order to give an idea of how you can recall a query inside itself as much as you like, the Fibonacci series has been written as an example of a non-linear recursive query.
 
 # K_mean: 
 The K-mean clustering method is so handy and could be written in SQL. 
